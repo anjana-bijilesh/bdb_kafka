@@ -9,7 +9,7 @@ setup(name='bdb_kafka_config',
       author_email='anjana.v@bdb.ai',
       keywords=['kafka'],
       license='MIT',
-      install_requires=['requests', 'confluent_kafka', 'logger', 'concurrent', ],
+      install_requires=['requests', 'confluent_kafka', 'logger', ],
 
       classifiers=[
           'Development Status :: 3 - Alpha',
