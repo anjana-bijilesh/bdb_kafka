@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(name='bdb_kafka_config',
-      version='0.1',
+      version='0.2',
       description='kafka connection',
       url='https://github.com/anjana-bijilesh/bdb_kafka',
       download_url='https://github.com/anjana-bijilesh/bdb_kafka/archive/refs/tags/v1.0.0.tar.gz',
